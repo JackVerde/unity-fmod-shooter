@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114109381018124740}
+  - {fileID: 114396714612434028}
+  EditorEvents:
+  - {fileID: 114375384803574442}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 114396714612434028}
+  StringsBanks:
+  - {fileID: 114109381018124740}
+  stringsBankWriteTime: 636896517679429528
+  cacheVersion: 3
+--- !u!114 &114006625913497938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: FMODBanks\Desktop\Master.strings.bank
+  SubDir: 
+  lastModified: 636896510021360902
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 742
+  - Name: Mobile
+    Value: 742
+  Exists: 1
+--- !u!114 &114105369181580794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: FMODBanks\Desktop\Master.strings.bank
+  SubDir: 
+  lastModified: 636896516661971184
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 742
+  - Name: Mobile
+    Value: 742
+  Exists: 1
+--- !u!114 &114109381018124740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity3DProjects\unity-fmod-shooter\FMOD_Project\SurvivalShooter\Build\Desktop\Master.strings.bank
+  SubDir: 
+  lastModified: 636896517679429528
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 742
+  - Name: Mobile
+    Value: 742
+  Exists: 1
+--- !u!114 &114375384803574442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/MUS_BackgroundMusic
+  guid: 19b0d98b8b9d134c9164dca2349c76e2
+  Banks:
+  - {fileID: 114396714612434028}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 28290
+--- !u!114 &114396714612434028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity3DProjects\unity-fmod-shooter\FMOD_Project\SurvivalShooter\Build\Desktop\Master.bank
+  SubDir: 
+  lastModified: 636896517678891306
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 829056
+  - Name: Mobile
+    Value: 829056
+  Exists: 1
+--- !u!114 &114575814371867198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC/MUS_BackgroundMusic
+  guid: 19b0d98b8b9d134c9164dca2349c76e2
+  Banks:
+  - {fileID: 114919298532618818}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 28290
+--- !u!114 &114810938197136420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity3DProjects\unity-fmod-shooter\FMODBanks\Desktop\Master.strings.bank
+  SubDir: 
+  lastModified: 636896514165809065
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 742
+  - Name: Mobile
+    Value: 742
+  Exists: 1
+--- !u!114 &114919298532618818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity3DProjects\unity-fmod-shooter\FMODBanks\Desktop\Master.bank
+  SubDir: D:\Unity3DProjects\unity-fmod-shooter\
+  lastModified: 636896516661861461
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &114973627101652828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Unity3DProjects\unity-fmod-shooter\FMODBanks\Desktop\Master.strings.bank
+  SubDir: 
+  lastModified: 636896516661971184
+  LoadResult: 70
+  FileSizes: []
+  Exists: 1
